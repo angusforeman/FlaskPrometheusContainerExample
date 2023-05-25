@@ -1,0 +1,9 @@
+click 
+colorama 
+Flask 
+itsdangerous 
+Jinja2 
+MarkupSafe 
+prometheus-client==0.16.0
+prometheus-flask-exporter==0.22.4
+Werkzeug 
