@@ -17,3 +17,8 @@ Demo
 - http://127.0.0.1/5000/hello/yourname to invoke the Hello World method and generate workload metrics (counter increments)
 - http://127.0.0.1/5000/metrics to view the exported prometheus observability metrics  
 - if using containersied example, as above but with alternate IP and port numbers 
+
+Deploying the container to Azure 
+- 
+- The Azure Cloud Shell and Azure CLI can be used to deploy the resulting container into a container registry in Azure and create a running container instance. See https://learn.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr for more details on this process
+  
