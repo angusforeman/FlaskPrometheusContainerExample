@@ -27,3 +27,5 @@ GitHub action to deploy to Azure ACR Container Instance
 - 
 The Deploy2AzACR.YML file is used to automate an image build and deployment to Azure ACR
 Note that the YAML file contains a hard coded  Container Instance name 
+
+-Note that at present the GH Action to build the docker is failing on a timeout
