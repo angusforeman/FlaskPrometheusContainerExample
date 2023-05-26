@@ -23,4 +23,7 @@ Deploying the container to Azure
 - The Azure Cloud Shell and Azure CLI can be used to deploy the resulting container into a container registry in Azure and create a running container instance. See https://learn.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr for more details on this process
 - See `AzureContainerDeploy.sh` for example Azure CLI fragments
  
-  
+GitHub action to deploy to Azure ACR Container Instance
+- 
+The Deploy2AzACR.YML file is used to automate an image build and deployment to Azure ACR
+Note that the YAML file contains a hard coded  Container Instance name 
