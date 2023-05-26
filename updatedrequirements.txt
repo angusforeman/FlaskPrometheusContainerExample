@@ -1,0 +1,31 @@
+boltons 
+brotlipy==0.7.0
+certifi cffi 
+charset-normalizer 
+colorama 
+conda==23.3.1
+conda-content-trust 
+conda-package-handling
+conda_package_streaming 
+cryptography 
+gunicorn==20.1.0
+idna 
+jsonpatch k
+jsonpointer==2.1
+menuinst 
+packaging 
+pluggy 
+pycosat 
+pycparser 
+pyOpenSSL 
+PySocks
+requests 
+ruamel.yaml 
+ruamel.yaml.clib 
+six 
+toolz 
+tqdm 
+urllib3 
+win-inet-pton 
+wincertstore==0.2
+zstandard==0.19.0
